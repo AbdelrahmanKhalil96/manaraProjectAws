@@ -7,7 +7,7 @@ This project demonstrates a serverless architecture using AWS Lambda to process 
 
 ## 📊 Architecture Diagram
 
-![Architecture](serverless_image_processing_architecture.png)
+![Architecture](serverless_image_processing_architecture.jpeg)
 
 ---
 
