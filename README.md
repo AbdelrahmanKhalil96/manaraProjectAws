@@ -13,8 +13,7 @@ This project demonstrates a serverless architecture using AWS Lambda to process 
 
 ## 📊 Demo
 
-[![Watch the demo](https://youtu.be/ZP0EVioz2go)
-
+[![Watch the demo](https://img.youtube.com/vi/ZP0EVioz2go/maxresdefault.jpg)](https://youtu.be/ZP0EVioz2go)
 ---
 
 ## 🛠️ Components
