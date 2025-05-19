@@ -11,6 +11,12 @@ This project demonstrates a serverless architecture using AWS Lambda to process 
 
 ---
 
+## 📊 Demo
+
+[![Watch the demo](https://youtu.be/ZP0EVioz2go)
+
+---
+
 ## 🛠️ Components
 
 - **S3 Source Bucket**: Where original images are uploaded.
